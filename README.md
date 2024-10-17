@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Web and Mobile Development
 - 🌱 I’m currently learning ... Asp.Net core
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Whatsapp:+233551532680
+- 📫 How to reach me ... Whatsapp:+233551532680, Telegram: @thebbabayaga
 
 <!---
 shawdowalker/shawdowalker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
